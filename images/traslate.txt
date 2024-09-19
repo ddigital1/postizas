@@ -1,0 +1,48 @@
+usage
+solar
+grid
+------morning
+solar kicks in but not
+enougth to meet demand
+so grid imports continue
+output
+Mañana
+
+la energía solar entra pero no
+suficiente para satisfacer la demanda
+por lo que las importaciones de red continúan 
+producción
+
+midday
+solar ramps up as usage
+drops lots of power is
+exported to grid
+mediodía
+la energía solar aumenta a medida que se usa 
+cae mucho poder es 
+exportado a la red
+
+afternoon
+solar output stays higth but
+exports decrease due to higher usage
+tarde
+la producción solar se mantiene alta pero 
+las exportaciones disminuyen debido al mayor uso
+
+evening
+solar drops off but usage goes up
+so you switch to importong from rhe grid
+tardecita
+
+la energía solar disminuye pero el uso aumenta
+entonces cambias a importacion desde la red
+
+nigth
+solar cycle complete
+low nigth time usage
+met by imports
+noche
+
+ciclo solar completo 
+bajo uso del tiempo de noche
+ cubierto por las importaciones
